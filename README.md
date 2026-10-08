@@ -1,16 +1,52 @@
-## Hi there 👋
+👋 Hi, My name is Muhammad Ramzan.
 
-<!--
-**codesvibe/codesvibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Computer Science Student | Developer in Progress
 
-Here are some ideas to get you started:
+I'm a computer science student from Pakistan, currently learning programming and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in:
+
+- 💻 Software Development
+- 🤖 Artificial Intelligence
+- 🌐 Web Development
+- 📱 Automation & Tools
+- 🚀 Startups & Entrepreneurship
+- 💡 Building real-world solutions
+
+🛠️ Currently Learning
+
+- C / C++
+- Python
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- SQL
+- AI & APIs
+
+📌 What I'm Building
+
+I'm focused on turning what I learn into small, practical projects instead of only following tutorials.
+
+My goal is to gradually build larger projects involving software, AI, automation and business.
+
+🎯 2026–2027 Goals
+
+- Build 10+ practical projects
+- Become comfortable with Git & GitHub
+- Learn Python properly
+- Build my first useful web application
+- Learn APIs and databases
+- Start contributing to open-source projects
+- Build projects that solve real problems
+
+📊 My Learning Philosophy
+
+«Learn → Build → Break → Fix → Improve → Repeat.»
+
+📫 Connect
+
+GitHub: "@codesvibe" (https://github.com/codesvibe)
+
+---
+
+⭐ If you find one of my projects useful, feel free to star it!
